@@ -316,7 +316,6 @@ body {
     position: absolute;
     top: 4px;
     right: 4px;
-    background: rgba(0, 0, 0, 0.8);
     border: 1px solid var(--primary-blue);
     border-radius: var(--radius-small);
     padding: 2px 6px;
@@ -410,7 +409,6 @@ body {
     border: var(--border-tech);
     border-radius: var(--radius-large);
     padding: 20px;
-    backdrop-filter: blur(15px);
     box-shadow: var(--glow-blue);
     z-index: 100;
 }
