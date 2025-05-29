@@ -200,8 +200,8 @@ body {
 }
 
 .weight-bar-fill.low {
-    background: linear-gradient(90deg, #00ff88, #00cc66);
-    box-shadow: 0 0 10px rgba(0, 255, 136, 0.4);
+    background: linear-gradient(90deg, #ffffff, #ffffff);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.4);
 }
 
 .weight-bar-fill.medium {
@@ -318,9 +318,9 @@ body {
     right: 4px;
     border: 1px solid var(--primary-blue);
     border-radius: var(--radius-small);
-    padding: 2px 6px;
+    padding: 1px 2px;
     font-family: var(--font-tech);
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 500;
     color: var(--primary-blue-light);
     text-shadow: 0 0 5px rgba(0, 212, 255, 0.5);
@@ -670,7 +670,6 @@ body {
     border: var(--border-tech) !important;
     border-radius: var(--radius-medium) !important;
     padding: 12px 16px !important;
-    backdrop-filter: blur(15px) !important;
     box-shadow: var(--glow-blue) !important;
     font-family: var(--font-primary) !important;
     font-size: 12px !important;
