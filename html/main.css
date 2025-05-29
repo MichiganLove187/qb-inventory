@@ -487,7 +487,6 @@ body {
     border: var(--border-tech);
     border-radius: var(--radius-large);
     padding: 16px;
-    backdrop-filter: blur(15px);
     box-shadow: var(--glow-cyan);
     animation: slideUp 0.5s ease-out;
 }
@@ -518,7 +517,6 @@ body {
     background: var(--surface-primary);
     border: var(--border-tech);
     border-radius: var(--radius-medium);
-    backdrop-filter: blur(15px);
     box-shadow: var(--glow-blue);
     list-style: none;
     margin: 0;
@@ -556,7 +554,6 @@ body {
     background: var(--surface-primary);
     border: var(--border-tech);
     border-radius: var(--radius-medium);
-    backdrop-filter: blur(15px);
     box-shadow: var(--glow-blue);
     list-style: none;
     margin: 0;
